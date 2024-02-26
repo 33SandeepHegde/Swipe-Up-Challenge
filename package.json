@@ -1,0 +1,35 @@
+{
+  "name": "swipe-up",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.1",
+    "react-scripts": "^5.0.1",
+    "react-slick": "^0.30.2",
+    "react-swipeable": "^7.0.1",
+    "react-swipeable-views": "^0.14.0",
+    "react-touch-events": "^3.0.0",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^6.1.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
